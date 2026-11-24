@@ -109,14 +109,21 @@ I ship systems that go to production and stay there.
 
 ### 📌 Featured Projects
 
+**🧪 Open-source** — full, runnable code (each runs offline out of the box):
+
 | Project | What it does | Stack | |
 |---|---|---|:--:|
-| **[quick-extra-platform](https://github.com/minelatech/quick-extra-platform)** | Digital staffing agency — replaced a 100% manual WhatsApp process with mission management, candidate tracking & a client dashboard | `React` · `FastAPI` · `PostgreSQL` · `Flutter` · `Stripe` | ⭐ 94 |
-| **[securitytrack-app](https://github.com/minelatech/securitytrack-app)** | Field-ops app for security teams — planning, QR check-in, real-time incident log & PDF reports (also a SaaS for other firms) | `Flutter` · `FastAPI` · `Firebase` | ⭐ 71 |
-| **[ai-agents-framework](https://github.com/minelatech/ai-agents-framework)** | Autonomous multi-agent orchestration — a central planner delegating to specialized agents | `LangGraph` · `GPT-4o` · `FastAPI` | ⭐ 218 |
-| **[enterprise-rag](https://github.com/minelatech/enterprise-rag)** | Enterprise Q&A over internal docs — hybrid search (semantic + BM25), streaming API, citations | `LangChain` · `ChromaDB` · `FastAPI` | ⭐ 189 |
-| **[realtime-etl](https://github.com/minelatech/realtime-etl)** | Production streaming pipeline handling **2M+ events/day** | `Kafka` · `PySpark` · `Airflow` | ⭐ 203 |
-| **[falilou-ordering](https://github.com/minelatech/falilou-ordering)** | Restaurant online ordering — menu, cart & Stripe payments | `React` · `Node.js` · `Stripe` | ⭐ 56 |
+| **[ai-agents-framework](https://github.com/minelatech/ai-agents-framework)** | Autonomous multi-agent orchestration — a central planner delegating to specialized agents | `LangGraph` · `GPT-4o` · `FastAPI` | [code →](https://github.com/minelatech/ai-agents-framework) |
+| **[enterprise-rag](https://github.com/minelatech/enterprise-rag)** | Enterprise Q&A over internal docs — hybrid search (semantic + BM25), streaming API, citations | `LangChain` · `ChromaDB` · `FastAPI` | [code →](https://github.com/minelatech/enterprise-rag) |
+| **[realtime-etl](https://github.com/minelatech/realtime-etl)** | High-volume streaming pipeline — ingest, clean & aggregate events in flight | `Kafka` · `PySpark` · `Airflow` | [code →](https://github.com/minelatech/realtime-etl) |
+
+**🚀 Client work in production** — shipped for real businesses (source private):
+
+| Project | What it does | Stack | |
+|---|---|---|:--:|
+| **Quick Extra Platform** | Digital staffing agency — replaced a 100% manual WhatsApp process with mission management, candidate tracking & a client dashboard | `React` · `FastAPI` · `PostgreSQL` · `Stripe` | [case study →](https://minelatech.fr) |
+| **SecurityTrack (SAP Terrain)** | Field-ops app for security teams — planning, QR check-in, real-time incident log & PDF reports | `Flutter` · `FastAPI` · `Firebase` | [case study →](https://minelatech.fr) |
+| **Falilou Ordering** | Restaurant online ordering — menu, cart & Stripe payments | `React` · `Node.js` · `Stripe` | [case study →](https://minelatech.fr) |
 
 ---
 
