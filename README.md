@@ -125,6 +125,11 @@ I ship systems that go to production and stay there.
 | **SecurityTrack (SAP Terrain)** | Field-ops app for security teams — planning, QR check-in, real-time incident log & PDF reports | `Flutter` · `FastAPI` · `Firebase` | [case study →](https://minelatech.fr) |
 | **Falilou Ordering** | Restaurant online ordering — menu, cart & Stripe payments | `React` · `Node.js` · `Stripe` | [case study →](https://minelatech.fr) |
 
+**🔭 In progress** — building now, more soon:
+
+- **Sama Docteur** — digital health / telemedicine platform `🚧 WIP`
+- **Athlio** — fitness & training app `🚧 WIP`
+
 ---
 
 ### 📊 GitHub Stats
